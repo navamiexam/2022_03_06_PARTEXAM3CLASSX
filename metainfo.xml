@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="EB1C4EA1-61BE-494B-A927-313B1F56B520" version="0">
+	<info>
+		<title>2022_03_06_PARTEXAM3CLASSX</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="3278513">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-971b49f77f01d20bf0cc2ad437bb47fe5dd5f8d3.png</file>
+		<file id="id12">data/images/img-bf6498220275c296faa67630935fddfe3ed41cf9.png</file>
+		<file id="id13">data/images/img-c99f58653e4bceea81eb523e9bda91f5b1f16d06.png</file>
+		<file id="id14">data/images/img-ce4b9f1a9b7d54f0baa59bb9480dc1c159d8e55f.png</file>
+		<file id="id15">data/images/img-f6c05f8ce3ee853953428ae92f21b15dff5a190f.png</file>
+		<file id="id16">data/images/img-f7bdc2cab48f5a22d3222cf089c202e731a7d493.png</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
